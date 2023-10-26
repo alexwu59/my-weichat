@@ -1,0 +1,3 @@
+# my-weichat
+
+test project
